@@ -1,0 +1,51 @@
+.EducationAndTraining {
+  margin-top: 20px;
+}
+
+.EducationAndTraining h1 {
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+.EducationAndTraining__box {
+  padding: 0px 0px 20px 20px;
+  border-left: 2px solid #09b1ba;
+  line-height: 2;
+}
+
+.EducationAndTraining__box::before {
+  content: '';
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  border-radius: 50px;
+  margin-top: 57px;
+  margin-left: -29px;
+  background-color: #09b1ba;
+}
+
+.EducationAndTraining__box > span {
+  font-size: 16px;
+  color: #09b1ba;
+}
+
+.EducationAndTraining__box > a {
+  color: #09b1ba;
+}
+
+@media (max-width: 640px) {
+  .EducationAndTraining {
+    width: 300px;
+  }
+
+  .EducationAndTraining__box::before {
+    content: '';
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    border-radius: 50px;
+    margin-top: 97px;
+    margin-left: -29px;
+    background-color: #09b1ba;
+  }
+}

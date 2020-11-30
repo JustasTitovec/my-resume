@@ -1,0 +1,158 @@
+{
+  "en": {
+    "language": "Choose language: ",
+    "birthday": "Date of birthday: ",
+    "aboutMe": "ABOUT ME",
+    "nationality": "Nationality: Lithuanian",
+    "lytis": "Gender: Male",
+    "Contacts": "CONTACT",
+    "about": "For more than six years, I worked in a transport company where I took a team leader position. Last few years  I felt that this area didn't work for me so in my leisure time after work, I attended CodeAcademy programming courses, during which I was absolutely convinced that I want to improve programming skills and invest my time in this area. Every day I have deepened my knowledge, learnt something new. I am very inspired by working with people who are as passionate as I am. Knowledge of HTML/CSS/SASS, JavaScript, using React.js frameworks helps me to create beautiful and functional websites.",
+    "education": {
+      "title": "EDUCATION AND TRAINING",
+      "diplomasVGTU": "Transport Engineering Economics and Logistics bachelor's degree",
+      "diplomasCodeBeg": "Front-end courses for beginners diploma ",
+      "diplomasCodeAdv": "Advanced Front-end courses diploma"
+    },
+    "digitalSkills": {
+      "title": "DIGITAL SKILLS",
+      "skills": "Programming"
+    },
+    "workExperience": {
+      "title": "WORK EXPERIENCE",
+      "tranportManager": "Transport manager",
+      "seniorManager": "Senior transport manager "
+    },
+    "languageSkills": {
+      "title": "Language skills",
+      "motherTongue": "MOTHER TONGUE(S): Lithuanian",
+      "language": {
+        "Russian": "Russian",
+        "English": "English",
+        "German": "German"
+      },
+      "skill": {
+        "Listening": "Listening",
+        "Reading": "Reading",
+        "Speaking": "Speaking",
+        "Writing": "Writing"
+      }
+    }
+  },
+  "lt": {
+    "language": "Pasirinkite kalbą: ",
+    "birthday": "Gimimo diena: ",
+    "aboutMe": "APIE MANE",
+    "nationality": "Pilietybė: Lietuvis",
+    "lytis": "Lytis: Vyras",
+    "Contacts": "KONTAKTAI",
+    "education": {
+      "title": "IŠSILAVINIMAS",
+      "diplomasVGTU": "Transporto inžinerinės ekonomikos ir vadybos bakalauro diplomas",
+      "diplomasCodeBeg": "Front-end pradedančiųjų kursų diplomas",
+      "diplomasCodeAdv": "Front-end pažengusiųjų kursų diplomas"
+    },
+    "about": "Daugiau nei šešerius metus dirbau transporto įmonėje, kurioje užėmiau vadovaujančią poziciją, tačiau dirbdamas pajutau, jog ši sritis ne man. Laisvu po darbo metu pradėjau lankyti CodeAcademy programavimo kursus, kurių metu visiškai įsitikinau, jog noriu tobulėli ir savo laiką investuoti būtent į šią sritį. Kasdien gilinu žinias, išmokstu ką nors naujo. Mane labai įkvepia darbas su tokiais pat motyvuotais žmonėmis kaip ir aš. HTML/CSS/SASS, „JavaScript“ žinios naudojant „React.js“ karkasus,  man padeda sukurti gražias ir funkcionalias svetaines.",
+    "digitalSkills": {
+      "title": "Skaitmeniniai įgūdžiai",
+      "skills": "Programavimas"
+    },
+    "workExperience": {
+      "title": "DARBO PATIRTIS",
+      "tranportManager": "Transporto vadybininkas",
+      "seniorManager": "Vyresnysis transporto vadybininkas"
+    },
+    "languageSkills": {
+      "title": "Kalbų įgudžiai",
+      "motherTongue": "GIMTOJI KALBA: Lietuvių",
+      "language": {
+        "Russian": "Rusų",
+        "English": "Anglų",
+        "German": "Vokiečių"
+      },
+      "skill": {
+        "Listening": "Klausymas",
+        "Reading": "Skaitymas",
+        "Speaking": "Kalbėjimas",
+        "Writing": "Rašymas"
+      }
+    }
+  },
+  "de": {
+    "language": "Sprache wählen: ",
+    "birthday": "Geburtsdatum: ",
+    "aboutMe": "ÜBER MICH",
+    "nationality": "Staatsangehörigkeit: litauisch",
+    "lytis": "Geschlecht: Mann",
+    "Contacts": "Kontaktdaten",
+    "education": {
+      "title": "Ausbildung",
+      "diplomasVGTU": "Bachelor Diplom den Transport Engineering Wirtschaft und Management",
+      "diplomasCodeBeg": "Front-end Diplom für Anfänger",
+      "diplomasCodeAdv": "Front-end Diplom für Fortgeschrittene"
+    },
+    "about": "Mehr als sechs Jahre lang arbeitete ich in einem Transportunternehmen, wo ich eine Teamleiterposition einnahm. In den letzten Jahren hatte ich das Gefühl, dass dieser Bereich für mich nicht funktioniert. In meiner Freizeit nach der Arbeit besuchte ich CodeAcademy-Programmierkurse, in denen ich absolut davon überzeugt war, dass ich meine Programmierkenntnisse verbessern und meine Zeit in diesen Bereich investieren möchte. Jeden Tag vertiefe ich mein Wissen und lerne etwas Neues. Ich bin sehr inspiriert von der Arbeit mit Menschen, die genauso motiviert wie ich sind. Kenntnisse in HTML/CSS/SASS, JavaScript und den React.js Frameworks helfen mir, schöne und funktionale Websites zu erstellen.",
+    "digitalSkills": {
+      "title": "Digitale Fähigkeiten",
+      "skills": "Programmierung"
+    },
+    "workExperience": {
+      "title": "Brufserfahrung",
+      "tranportManager": "Transport Manager",
+      "seniorManager": "Senior Transport Manager"
+    },
+    "languageSkills": {
+      "title": "Sprachen",
+      "motherTongue": "Muttersprache: litauisch",
+      "language": {
+        "Russian": "russisch",
+        "English": "englisch",
+        "German": "deutsch"
+      },
+      "skill": {
+        "Listening": "Hören",
+        "Reading": "Lesen",
+        "Speaking": "Sprechen",
+        "Writing": "Schreiben"
+      }
+    }
+  },
+  "ru": {
+    "language": "Выберите язык: ",
+    "birthday": "Дата рождения: ",
+    "aboutMe": "ОБО МНЕ",
+    "nationality": "Национальность: литовец",
+    "lytis": "Пол : мужской",
+    "Contacts": "КОНТАКТЫ",
+    "about": "Более шести лет проработал в транспортной компании, где занял позицию руководителя группы. Последние несколько лет я чувствовал, что эта область мне не подходит, поэтому в свободное от работы время я посетил курсы программирования CodeAcademy, во время которых я был абсолютно убежден, что хочу улучшить навыки программирования и вкладывать свое время в эту область. Каждый день я углубляю свои знания, узнаваю что-то новое. Меня очень вдохновляет работа с такими же увлеченными людьми, как и я. Знание HTML/CSS/SASS, JavaScript, использование фреймворков React.js помогает мне создавать красивые и функциональные веб-сайты.",
+    "education": {
+      "title": "ОБРАЗОВАНИЕ И ОБУЧЕНИЕ",
+      "diplomasVGTU": "Степень бакалавра экономики и логистики ",
+      "diplomasCodeBeg": "Front-end курсы для новичка диплом",
+      "diplomasCodeAdv": "Front-end курсы для продвинутых диплом"
+    },
+    "digitalSkills": {
+      "title": "ЦИФРОВЫЕ НАВЫКИ",
+      "skills": "Программирование"
+    },
+    "workExperience": {
+      "title": "ОПЫТ РАБОТЫ",
+      "tranportManager": "Транспортный менеджер",
+      "seniorManager": "Старший транспортный менеджер"
+    },
+    "languageSkills": {
+      "title": "Языковые навыки",
+      "motherTongue": "РОДНОИ ЯЗЫК: Литовский",
+      "language": {
+        "Russian": "русский",
+        "English": "английский",
+        "German": "Немецкий"
+      },
+      "skill": {
+        "Listening": "Прослушивание",
+        "Reading": "Чтение",
+        "Speaking": "Говорящий",
+        "Writing": "Письмо"
+      }
+    }
+  }
+}

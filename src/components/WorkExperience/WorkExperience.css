@@ -1,0 +1,50 @@
+.WorkExperience {
+  margin-top: 20px;
+}
+
+.WorkExperience h1 {
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+.WorkExperience__box {
+  padding: 0px 0px 20px 20px;
+  border-left: 2px solid #09b1ba;
+  line-height: 2;
+}
+
+.WorkExperience__box::before {
+  content: '';
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  border-radius: 50px;
+  margin-top: 97px;
+  margin-left: -29px;
+  background-color: #09b1ba;
+}
+
+.WorkExperience__box > span {
+  font-size: 16px;
+  color: #09b1ba;
+}
+
+.WorkExperience__box > a {
+  color: #09b1ba;
+}
+@media (max-width: 640px) {
+  .WorkExperience {
+    margin-top: 165px;
+    width: 300px;
+  }
+  .WorkExperience__box::before {
+    content: '';
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    border-radius: 50px;
+    margin-top: 137px;
+    margin-left: -29px;
+    background-color: #09b1ba;
+  }
+}
