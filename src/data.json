@@ -51,7 +51,7 @@
       "diplomasCodeBeg": "Front-end pradedančiųjų kursų diplomas",
       "diplomasCodeAdv": "Front-end pažengusiųjų kursų diplomas"
     },
-    "about": "Daugiau nei šešerius metus dirbau transporto įmonėje, kurioje užėmiau vadovaujančią poziciją, tačiau dirbdamas pajutau, jog ši sritis ne man. Laisvu po darbo metu pradėjau lankyti CodeAcademy programavimo kursus, kurių metu visiškai įsitikinau, jog noriu tobulėli ir savo laiką investuoti būtent į šią sritį. Kasdien gilinu žinias, išmokstu ką nors naujo. Mane labai įkvepia darbas su tokiais pat motyvuotais žmonėmis kaip ir aš. HTML/CSS/SASS, „JavaScript“ žinios naudojant „React.js“ karkasus,  man padeda sukurti gražias ir funkcionalias svetaines.",
+    "about": "Daugiau nei šešerius metus dirbau transporto įmonėje, kurioje užėmiau vadovaujančią poziciją, tačiau dirbdamas pajutau, jog ši sritis ne man. Laisvu po darbo metu pradėjau lankyti CodeAcademy programavimo kursus, kurių metu visiškai įsitikinau, jog noriu tobulėli ir savo laiką investuoti būtent į šią sritį. Kasdien gilinu žinias, išmokstu ką nors naujo. Mane labai įkvepia darbas su tokiais pat motyvuotais žmonėmis kaip ir aš. HTML/CSS/SASS, „JavaScript“ žinios naudojant „React.js“ karkasą,  man padeda sukurti gražias ir funkcionalias svetaines.",
     "digitalSkills": {
       "title": "Skaitmeniniai įgūdžiai",
       "skills": "Programavimas"
@@ -90,7 +90,7 @@
       "diplomasCodeBeg": "Front-end Diplom für Anfänger",
       "diplomasCodeAdv": "Front-end Diplom für Fortgeschrittene"
     },
-    "about": "Mehr als sechs Jahre lang arbeitete ich in einem Transportunternehmen, wo ich eine Teamleiterposition einnahm. In den letzten Jahren hatte ich das Gefühl, dass dieser Bereich für mich nicht funktioniert. In meiner Freizeit nach der Arbeit besuchte ich CodeAcademy-Programmierkurse, in denen ich absolut davon überzeugt war, dass ich meine Programmierkenntnisse verbessern und meine Zeit in diesen Bereich investieren möchte. Jeden Tag vertiefe ich mein Wissen und lerne etwas Neues. Ich bin sehr inspiriert von der Arbeit mit Menschen, die genauso motiviert wie ich sind. Kenntnisse in HTML/CSS/SASS, JavaScript und den React.js Frameworks helfen mir, schöne und funktionale Websites zu erstellen.",
+    "about": "Mehr als sechs Jahre lang arbeitete ich in einem Transportunternehmen, wo ich eine Teamleiterposition einnahm. In den letzten Jahren hatte ich das Gefühl, dass dieser Bereich für mich nicht funktioniert. In meiner Freizeit nach der Arbeit besuchte ich CodeAcademy-Programmierkurse, in denen ich absolut davon überzeugt war, dass ich meine Programmierkenntnisse verbessern und meine Zeit in diesen Bereich investieren möchte. Jeden Tag vertiefe ich mein Wissen und lerne etwas Neues. Ich bin sehr inspiriert von der Arbeit mit Menschen, die genauso motiviert wie ich sind. Kenntnisse in HTML/CSS/SASS, JavaScript und den React.js Framework helfen mir, schöne und funktionale Websites zu erstellen.",
     "digitalSkills": {
       "title": "Digitale Fähigkeiten",
       "skills": "Programmierung"
@@ -123,7 +123,7 @@
     "nationality": "Национальность: литовец",
     "lytis": "Пол : мужской",
     "Contacts": "КОНТАКТЫ",
-    "about": "Более шести лет проработал в транспортной компании, где занял позицию руководителя группы. Последние несколько лет я чувствовал, что эта область мне не подходит, поэтому в свободное от работы время я посетил курсы программирования CodeAcademy, во время которых я был абсолютно убежден, что хочу улучшить навыки программирования и вкладывать свое время в эту область. Каждый день я углубляю свои знания, узнаваю что-то новое. Меня очень вдохновляет работа с такими же увлеченными людьми, как и я. Знание HTML/CSS/SASS, JavaScript, использование фреймворков React.js помогает мне создавать красивые и функциональные веб-сайты.",
+    "about": "Более шести лет проработал в транспортной компании, где занял позицию руководителя группы. Последние несколько лет я чувствовал, что эта область мне не подходит, поэтому в свободное от работы время я посетил курсы программирования CodeAcademy, во время которых я был абсолютно убежден, что хочу улучшить навыки программирования и вкладывать свое время в эту область. Каждый день я углубляю свои знания, узнаваю что-то новое. Меня очень вдохновляет работа с такими же увлеченными людьми, как и я. Знание HTML/CSS/SASS, JavaScript, использование фреймворкa React.js помогает мне создавать красивые и функциональные веб-сайты.",
     "education": {
       "title": "ОБРАЗОВАНИЕ И ОБУЧЕНИЕ",
       "diplomasVGTU": "Степень бакалавра экономики и логистики ",
