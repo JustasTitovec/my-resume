@@ -20,14 +20,11 @@
   -webkit-appearance: menulist-button;
 }
 
-@media (max-width: 640px) {
-  .contacts {
-    width: 100%;
-  }
-  .aboutMe {
-    width: 300px;
-  }
+.aboutMe__select:focus {
+  outline: none;
+}
 
+@media (max-width: 640px) {
   .aboutMe__lang {
     display: flex;
     margin-top: 20px;

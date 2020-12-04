@@ -32,8 +32,9 @@
   }
 
   .App__sidebar {
-    width: 300px;
+    width: 100%;
     height: 1050px;
+    padding: 20px;
   }
 
   .App__right {
@@ -42,5 +43,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 100%;
   }
 }

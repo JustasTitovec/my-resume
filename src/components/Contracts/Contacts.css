@@ -29,9 +29,14 @@
   width: 80%;
   flex-direction: column;
   flex-wrap: wrap;
-  margin-top: 50px;
+  margin: 50px 0px;
   text-align: left;
   line-height: 2.5;
+  padding: 20px;
+}
+
+.contacts__contacts ul {
+  font-size: 18px;
 }
 
 .contacts__adress {
@@ -84,13 +89,20 @@
 }
 
 .contacts__contacts a {
+  display: inline-block;
   text-decoration: none;
   color: black;
   line-height: 1.2;
 }
 
-@media (max-width: 640px) {
+/* @media (max-width: 640px) {
   .contacts__contacts__nationality {
     width: 300px;
+  }
+} */
+
+@media (max-width: 320px) {
+  .contacts__contacts {
+    padding: 0;
   }
 }

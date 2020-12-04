@@ -17,7 +17,7 @@
 
 @media (max-width: 640px) {
   .LanguageSkills {
-    width: 300px;
+    width: 100%;
   }
 
   .LanguageSkills__rate {

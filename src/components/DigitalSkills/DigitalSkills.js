@@ -9,10 +9,10 @@ function DigitalSkills({ lang }) {
       <h3>{data[lang].digitalSkills.skills}</h3>
       <div className="DigitalSkills__skills">
         <li>CSS + HTML</li>
-        <li>SASS </li>
-        <li>BEM </li>
-        <li>JavaScript </li>
-        <li>Nodejs (base) </li>
+        <li>SASS</li>
+        <li>BEM</li>
+        <li>JavaScript</li>
+        <li>Nodejs(base)</li>
         <li>Reactjs</li>
         <li>Git GitHub</li>
         <li>Bootstrap</li>

@@ -33,10 +33,6 @@
   color: #09b1ba;
 }
 @media (max-width: 640px) {
-  .WorkExperience {
-    margin-top: 165px;
-    width: 300px;
-  }
   .WorkExperience__box::before {
     content: '';
     width: 15px;

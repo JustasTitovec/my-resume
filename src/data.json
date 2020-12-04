@@ -5,8 +5,8 @@
     "aboutMe": "ABOUT ME",
     "nationality": "Nationality: Lithuanian",
     "lytis": "Gender: Male",
-    "Contacts": "CONTACT",
-    "about": "For more than six years, I worked in a transport company where I took a team leader position. Last few years  I felt that this area didn't work for me so in my leisure time after work, I attended CodeAcademy programming courses, during which I was absolutely convinced that I want to improve programming skills and invest my time in this area. Every day I have deepened my knowledge, learnt something new. I am very inspired by working with people who are as passionate as I am. Knowledge of HTML/CSS/SASS, JavaScript, using React.js frameworks helps me to create beautiful and functional websites.",
+    "Contacts": "CONTACTS",
+    "about": "For more than six years, I worked in a transport company where I took a team leader position. Last few years  I felt that this area didn't work for me so in my leisure time after work, I attended CodeAcademy programming courses, during which I was absolutely convinced that I want to improve programming skills and invest my time in this area. Every day I have deepening my knowledge, learning something new. I am very inspired by working with people who are as passionate as I am. Knowledge of HTML/CSS/SASS, JavaScript, using React.js framework helps me to create beautiful and functional websites.",
     "education": {
       "title": "EDUCATION AND TRAINING",
       "diplomasVGTU": "Transport Engineering Economics and Logistics bachelor's degree",
@@ -24,7 +24,7 @@
     },
     "languageSkills": {
       "title": "Language skills",
-      "motherTongue": "MOTHER TONGUE(S): Lithuanian",
+      "motherTongue": "NATIVE LANGUAGE: Lithuanian",
       "language": {
         "Russian": "Russian",
         "English": "English",
