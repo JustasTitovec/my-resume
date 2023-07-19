@@ -9,6 +9,14 @@ function EducationAndTraining({ lang }) {
       <div>
         <div className="EducationAndTraining__box">
           <span>
+            <strong>20/10/2022 – 23/10/2022</strong> – London
+          </span>
+          <h3>{data[lang].education.conference}</h3>
+          <p>React Advanced London</p>
+          <a href="https://reactadvanced.com">https://reactadvanced.com</a>
+        </div>
+        <div className="EducationAndTraining__box">
+          <span>
             <strong>13/01/2020 – 31/07/2020</strong> – Antakalnio g. 17,
             Vilnius, Lithuania
           </span>

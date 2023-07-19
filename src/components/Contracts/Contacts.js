@@ -32,7 +32,7 @@ function Contacts({ lang }) {
           <li className="contacts__adress">
             <i className="fas fa-map-marker-alt"></i>
             <a href="https://www.google.lt/maps/place/Eitmin%C5%B3+g.+18,+Vilnius+12111,+Lietuva/@54.7394847,25.2166266,17z/data=!3m1!4b1!4m5!3m4!1s0x46dd91a23ccda039:0xdefff5a956778f33!8m2!3d54.7394816!4d25.2188153">
-              Eitminų 18-86, Vilnius, Lithuania
+              Pitzolstrasse 26, 7310 Bad Ragaz, Switzerland
             </a>
           </li>
           <li>
@@ -45,12 +45,6 @@ function Contacts({ lang }) {
             <i className="fas fa-phone-alt"></i>
 
             <a href="tel:+37062248878">Tel. (+370) 62248878</a>
-          </li>
-          <li>
-            <i className="fab fa-github"></i>
-            <a href="https://github.com/JustasTitovec">
-              https://github.com/JustasTitovec
-            </a>{' '}
           </li>
           <li>
             <i className="fab fa-linkedin"></i>

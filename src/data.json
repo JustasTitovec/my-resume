@@ -6,12 +6,13 @@
     "nationality": "Nationality: Lithuanian",
     "lytis": "Gender: Male",
     "Contacts": "CONTACTS",
-    "about": "For more than six years, I worked in a transport company where I took a team leader position. Last few years  I felt that this area didn't work for me so in my leisure time after work, I attended CodeAcademy programming courses, during which I was absolutely convinced that I want to improve programming skills and invest my time in this area. Every day I have deepening my knowledge, learning something new. I am very inspired by working with people who are as passionate as I am. Knowledge of HTML/CSS/SASS, JavaScript, using React.js framework helps me to create beautiful and functional websites.",
+    "about": "For almost two years I have been working as Frontend Developer in Kilo Health, the second fastest growing company in Eastern Europe. During this time, I have gained invaluable experience working on high-end products in the digital health and wellness field, which aims to help people improve their physical and emotional health. I have a lot of experience working in a large team and have excellent teamwork and time management skills, as well as experience working with React and Nextjs frameworks using Typescript. I take on new challenges every day, and in my spare time I deepen my technical skills and learn about new developments in the field through online courses or company workshops.I strongly believe that you will identify my motivation. I would be proud if I will have an opportunity to work together with professionals and gain tremendous experience. You can also check my resume online! https://justastitovec.github.io/my-resume/",
     "education": {
       "title": "EDUCATION AND TRAINING",
       "diplomasVGTU": "Transport Engineering Economics and Logistics bachelor's degree",
       "diplomasCodeBeg": "Front-end courses for beginners diploma ",
-      "diplomasCodeAdv": "Advanced Front-end courses diploma"
+      "diplomasCodeAdv": "Advanced Front-end courses diploma",
+      "conference": "Conference"
     },
     "digitalSkills": {
       "title": "DIGITAL SKILLS",
@@ -49,9 +50,10 @@
       "title": "IŠSILAVINIMAS",
       "diplomasVGTU": "Transporto inžinerinės ekonomikos ir vadybos bakalauro diplomas",
       "diplomasCodeBeg": "Front-end pradedančiųjų kursų diplomas",
-      "diplomasCodeAdv": "Front-end pažengusiųjų kursų diplomas"
+      "diplomasCodeAdv": "Front-end pažengusiųjų kursų diplomas",
+      "conference": "Konferencija"
     },
-    "about": "Daugiau nei šešerius metus dirbau transporto įmonėje, kurioje užėmiau vadovaujančią poziciją, tačiau dirbdamas pajutau, jog ši sritis ne man. Laisvu po darbo metu pradėjau lankyti CodeAcademy programavimo kursus, kurių metu visiškai įsitikinau, jog noriu tobulėli ir savo laiką investuoti būtent į šią sritį. Kasdien gilinu žinias, išmokstu ką nors naujo. Mane labai įkvepia darbas su tokiais pat motyvuotais žmonėmis kaip ir aš. HTML/CSS/SASS, „JavaScript“ žinios naudojant „React.js“ karkasą,  man padeda sukurti gražias ir funkcionalias svetaines.",
+    "about": "Beveik du metus esu antros sparčiausiai augančių rytų Europoje įmonės Kilo Health Frontend programuotojas. Per šį laiką įgavau neįkainojamos patirties dirbant su aukščiausios klasės produktais digital health and wellness srityje, kurios tikslas padėti žmonėms pagerinti fizinę ir emocinę sveikatą. Turiu daug patirties dirbant didelėje komandoje ir puikius komandinio darbo, darbo planavimo bei laiko paskirstymo įgudžius, taip pat turiu patirties dirbant su React ir Nextjs frameworkais naudojant Typescript. Kiekvieną dieną priimu naujus ššūkius, laisvu nuo darbo metu gilinu savo techninius įgudžius , domiuosi sios srituies naujovemis online kursuose ar įmonės rengiamuose workshopuose.",
     "digitalSkills": {
       "title": "Skaitmeniniai įgūdžiai",
       "skills": "Programavimas"
@@ -88,9 +90,10 @@
       "title": "Ausbildung",
       "diplomasVGTU": "Bachelor Diplom den Transport Engineering Wirtschaft und Management",
       "diplomasCodeBeg": "Front-end Diplom für Anfänger",
-      "diplomasCodeAdv": "Front-end Diplom für Fortgeschrittene"
+      "diplomasCodeAdv": "Front-end Diplom für Fortgeschrittene",
+      "conference": "Konferenz"
     },
-    "about": "Mehr als sechs Jahre lang arbeitete ich in einem Transportunternehmen, wo ich eine Teamleiterposition einnahm. In den letzten Jahren hatte ich das Gefühl, dass dieser Bereich für mich nicht funktioniert. In meiner Freizeit nach der Arbeit besuchte ich CodeAcademy-Programmierkurse, in denen ich absolut davon überzeugt war, dass ich meine Programmierkenntnisse verbessern und meine Zeit in diesen Bereich investieren möchte. Jeden Tag vertiefe ich mein Wissen und lerne etwas Neues. Ich bin sehr inspiriert von der Arbeit mit Menschen, die genauso motiviert wie ich sind. Kenntnisse in HTML/CSS/SASS, JavaScript und den React.js Framework helfen mir, schöne und funktionale Websites zu erstellen.",
+    "about": "Seit fast zwei Jahren bin ich Frontend-Entwickler bei Kilo Health, dem am zweitschnellsten wachsenden Unternehmen in Osteuropa. In dieser Zeit habe ich unschätzbare Erfahrungen bei der Arbeit an High-End-Produkten im Bereich digitale Gesundheit und Wellness gesammelt, die den Menschen helfen sollen, ihre körperliche und emotionale Gesundheit zu verbessern. Ich habe umfangreiche Erfahrung in der Arbeit in einem großen Team, ausgezeichnete Teamarbeit und Zeitmanagement-Fähigkeiten, und Erfahrung in der Arbeit mit React und Nextjs-Frameworks mit Typescript. Ich stelle mich jeden Tag neuen Herausforderungen und in meiner Freizeit vertiefe ich meine technischen Fähigkeiten und lerne in Online-Kursen oder Firmenworkshops neue Entwicklungen in diesem Bereich kennen.",
     "digitalSkills": {
       "title": "Digitale Fähigkeiten",
       "skills": "Programmierung"
@@ -123,12 +126,13 @@
     "nationality": "Национальность: литовец",
     "lytis": "Пол : мужской",
     "Contacts": "КОНТАКТЫ",
-    "about": "Более шести лет проработал в транспортной компании, где занял позицию руководителя группы. Последние несколько лет я чувствовал, что эта область мне не подходит, поэтому в свободное от работы время я посетил курсы программирования CodeAcademy, во время которых я был абсолютно убежден, что хочу улучшить навыки программирования и вкладывать свое время в эту область. Каждый день я углубляю свои знания, узнаваю что-то новое. Меня очень вдохновляет работа с такими же увлеченными людьми, как и я. Знание HTML/CSS/SASS, JavaScript, использование фреймворкa React.js помогает мне создавать красивые и функциональные веб-сайты.",
+    "about": "Почти два года я работаю в качестве Frontend-разработчика в компании Kilo Health, второй по темпам роста компании в Восточной Европе. За это время я приобрел бесценный опыт работы над высококлассными продуктами в области цифрового здоровья и велнеса цель которых - помочь людям улучшить свое физическое и эмоциональное состояние. У меня большой опыт работы в большом коллективе отличные навыки командной работы и управления временем, а также опыт работы с фреймворками React и Nextjs с использованием Typescript Каждый день я принимаю новые вызовы, а в свободное время углубляю свои технические навыки и узнаю о новых разработках в этой области на онлайн-курсах или семинарах компании.Я твердо верю, что вы определите мою мотивацию. Я буду гордиться тем, что мне представится возможность работать вместе с профессионалами и получить колоссальный опыт. Вы также можете ознакомиться с моим резюме на сайте! https://justastitovec.github.io/my-resume/",
     "education": {
       "title": "ОБРАЗОВАНИЕ И ОБУЧЕНИЕ",
       "diplomasVGTU": "Степень бакалавра экономики и логистики ",
       "diplomasCodeBeg": "Front-end курсы для новичка диплом",
-      "diplomasCodeAdv": "Front-end курсы для продвинутых диплом"
+      "diplomasCodeAdv": "Front-end курсы для продвинутых диплом",
+      "conference": "Конференция"
     },
     "digitalSkills": {
       "title": "ЦИФРОВЫЕ НАВЫКИ",
