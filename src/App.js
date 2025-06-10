@@ -8,7 +8,7 @@ import './App.css';
 import LanguageSkills from './components/LanguageSkills/LanguageSkills.js';
 
 function App() {
-  const [lang, setLang] = React.useState('en');
+  const [lang, setLang] = React.useState('de');
 
   function changeLanguage(event) {
     setLang(event.target.value);
@@ -21,9 +21,9 @@ function App() {
       </div>
       <div className="App__right">
         <AboutMe lang={lang} onChange={changeLanguage} />
-        <EducationAndTraining lang={lang} />
         <DigitalSkills lang={lang} />
         <WorkExperience lang={lang} />
+        <EducationAndTraining lang={lang} />
         <LanguageSkills lang={lang} />
       </div>
     </div>

@@ -9,6 +9,7 @@ function DigitalSkills({ lang }) {
       <h3>{data[lang].digitalSkills.skills}</h3>
       <div className="DigitalSkills__skills">
         <li>Reactjs</li>
+        <li>React Native</li>
         <li>Typescript</li>
         <li>NextJs</li>
         <li>CSS + HTML</li>
