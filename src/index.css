@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans Condensed', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #333333;
+  font-size: 20px;
+  letter-spacing: 0.5px;
+}
+
+code {
+  font-family: 'Open Sans Condensed', sans-serif;
+}

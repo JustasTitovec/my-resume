@@ -1,0 +1,33 @@
+.aboutMe h1 {
+  margin: 20px 0px;
+  font-weight: 500;
+}
+
+.aboutMe__lang {
+  display: flex;
+  justify-content: flex-end;
+}
+.aboutMe__lang p {
+  margin-right: 10px;
+}
+
+.aboutMe p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.aboutMe__select {
+  -webkit-appearance: menulist-button;
+}
+
+.aboutMe__select:focus {
+  outline: none;
+}
+
+@media (max-width: 640px) {
+  .aboutMe__lang {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+  }
+}
